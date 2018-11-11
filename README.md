@@ -103,7 +103,7 @@ material-dashboard-react
     │   └── jss
     │       ├── material-dashboard-react
     │       │   ├── cardImagesStyles.jsx
-    │       │   ├── checkboxAdnRadioStyle.jsx
+    │       │   ├── checkboxAndRadioStyle.jsx
     │       │   ├── components
     │       │   │   ├── buttonStyle.jsx
     │       │   │   ├── cardAvatarStyle.jsx

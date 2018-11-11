@@ -3,7 +3,7 @@
 - Added `install:clean` command (deletes `node_modules` and `package-lock.json` and runs `npm install`)
 ### Major style changes
 - `src/assets/jss/material-dashboard-react/components/tasksStyle.jsx`
-- `src/assets/jss/material-dashboard-react/checkboxAdnRadioStyle.jsx`
+- `src/assets/jss/material-dashboard-react/checkboxAndRadioStyle.jsx`
 - `src/assets/jss/material-dashboard-react/components/customTabsStyle.jsx`
 - `src/assets/jss/material-dashboard-react/components/snackbarContentStyle.jsx`
 ### Deleted dependencies

@@ -58,7 +58,7 @@ html * {
     -moz-osx-font-smoothing: grayscale;
 }
 body {
-    background-color: #EEEEEE;
+    background-color: #333;
     color: #3C4858;
     margin: 0;
     font-family: Roboto, Helvetica, Arial, sans-serif;
@@ -107,8 +107,8 @@ h6 {
 }
 
 body {
-    background-color: #EEEEEE;
-    color: #3C4858;
+    background-color: #111;
+    color: #fff;
 }
 
 blockquote p {
@@ -122,12 +122,12 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #9c27b0;
+    color: #4a8de0;
     text-decoration: none;
 }
 
 a:hover, a:focus {
-    color: #89229b;
+    color: #60aaf1;
     text-decoration: none;
 }
 

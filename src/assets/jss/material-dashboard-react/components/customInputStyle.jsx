@@ -18,7 +18,8 @@ const customInputStyle = {
     },
     "&:after": {
       borderColor: primaryColor
-    }
+    },
+    color: "#fff"
   },
   underlineError: {
     "&:after": {
